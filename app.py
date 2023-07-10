@@ -1,6 +1,6 @@
 import streamlit as st
 
-Def main()
+def main()
     st.title("MY BIOGRAPHY")
     st.header("LIE ERALDO MANASON")
     st.image("Photo.jpg", width=300)
