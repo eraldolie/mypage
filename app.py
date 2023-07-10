@@ -1,6 +1,5 @@
 import streamlit as st
 
-def main():
     st.title("MY BIOGRAPHY")
     st.header("LIE ERALDO MANASON")
     st.image("Photo.jpg", width=300)
@@ -52,5 +51,3 @@ def main():
     st.info("Email : eraldo.matius@gmail.com")
     st.info("WhatsApp : 081225030660")
     st.info("Intagram : @eraldolie")
-if __name__ == '__main__':
-     main()
